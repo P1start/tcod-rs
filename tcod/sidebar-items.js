@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["tcod_print!",""]],"mod":[["chars",""],["colors",""],["console","The console emulator handles the rendering of the game screen and the keyboard input"],["input",""],["map",""],["pathfinding",""],["system",""]],"trait":[["AsNative",""],["FromNative",""]],"type":[["OffscreenConsole",""],["RootConsole",""]]});
